@@ -6,5 +6,6 @@ Let me tell something about me:
 - 🌱 I’m currently learning: 
   * **AI**
   * **BIG DATA**
+  * **Finance**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arnau-puche-vila-5a163719a/)
 
